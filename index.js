@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; // we can use this line of code or not in new version. Earlier it was important to write. Now it is automatically handled.
 import ReactDOM from "react-dom";
 
 //---------------- How we write in react-----Babel is converting it in necessary code behind the scene--------------
